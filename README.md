@@ -12,7 +12,7 @@
   - **RAM:** Emmagatzema temporalment el codi binari dels arxius i arrenca l’ordinador.
   - **CPU:** Llegeix i et permet executar les instruccions emmagatzemades a la RAM.
   - **Entrada/Sortida (E/S):** Permet ingresar o emetre 
-  
+  ![Img-Disc-Dur](https://user-images.githubusercontent.com/74070913/98411287-11b16400-2076-11eb-8ff4-13a1315fd11f.jpg)
 El disc dur està relacionat amb el emmagatzematge.  
 La RAM està relacionada amb el computador i emmagatzematge.  
 El CPU està relacionat amb el computador.  
