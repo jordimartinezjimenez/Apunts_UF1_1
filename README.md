@@ -13,10 +13,10 @@
   - **CPU:** Llegeix i et permet executar les instruccions emmagatzemades a la RAM.
   - **Entrada/Sortida (E/S):** Permet ingresar o emetre 
   
-El disc dur està relacionat amb el emmagatzematge.
-La RAM està relacionada amb el computador i emmagatzematge.
-El CPU està relacionat amb el computador.
-El E/S està relacionat amb l’execució de software
+El disc dur està relacionat amb el emmagatzematge.  
+La RAM està relacionada amb el computador i emmagatzematge.  
+El CPU està relacionat amb el computador.  
+El E/S està relacionat amb l’execució de software  
 
 ## Tipus de codi
   - **Codi font:** arxiu de text llegible escrit en un llenguatge de programació. 
