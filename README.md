@@ -1,18 +1,33 @@
 # Apunts_UF1_1
 
-## Hola
+# ENTORNS DE DESENVOLUPAMENT
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## Tipus de software
+  - de Sistema (S.O, drivers)
+  - d’Aplicació (Suite ofimàtica, Navegador, Edició d'imatge, etc..)
+  - de Desenvolupament (Editors, compiladors, intèrprets, etc...)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Relació hardware-software
+  - **Disc dur:** Emmagatzema dades de forma permanent.
+  - **RAM:** Emmagatzema temporalment el codi binari dels arxius i arrenca l’ordinador.
+  - **CPU:** Llegeix i et permet executar les instruccions emmagatzemades a la RAM.
+  - **Entrada/Sortida (E/S):** Permet ingresar o emetre 
+  
+El disc dur està relacionat amb el emmagatzematge.
+La RAM està relacionada amb el computador i emmagatzematge.
+El CPU està relacionat amb el computador.
+El E/S està relacionat amb l’execució de software
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+## Tipus de codi
+  - **Codi font:** arxiu de text llegible escrit en un llenguatge de programació. 
+    Ex: C, Java, Python...
+  - **Codi objecte:** arxiu binari no executable. El codi resultant de la compilació del codi font. Codificat en codi màquina.
+  - **Codi executable:** arxiu binari executable. Quan l’ordinador pot realitzar les instruccions compilades.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-# New Features!
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+## Desenvolupament de software
+### Fases principals
+  - **Anàlisi:**
+  - **Disseny:**
+  - **Codificació:**
+  - **Proves:**
+  - **Manteniment:**
