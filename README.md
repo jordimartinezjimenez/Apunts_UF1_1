@@ -36,3 +36,12 @@ El E/S està relacionat amb l’execució de software
       - Perfectiu: es millora la funcionalitat
       - Evolutiu: s’afegeixen noves funcionalitats
       - Adaptatiu: s’adapta a nous entorns
+
+### Models de desenvolupament de software
+ - Models clàsics (predictius)
+    - Model en cascada 
+    - Model en V
+  - Model de construcció de prototius
+  - Models evolutius o incrementals
+    - Model en espiral (iteratius)
+    - Metodologies àgils (adaptatius)
