@@ -26,8 +26,13 @@ El E/S està relacionat amb l’execució de software
 
 ## Desenvolupament de software
 ### Fases principals
-  - **Anàlisi:**
-  - **Disseny:**
-  - **Codificació:**
-  - **Proves:**
-  - **Manteniment:**
+  - **Anàlisi:** Comprendre i determinar les necessitats del client per especificar els requisits que ha de complir el software.
+  - **Disseny:** Organitza el sistema en elements components que poden ser desenvolupats per separat. Es preparen totes les funcionalitats necessàries per a complir els requeriments detectats en l'anàlisi.
+  - **Codificació:** S’escriu el codi font de cada component.
+  - **Proves:** Sotmetre el programa a diferents situacions per detectar errors.
+  - **Manteniment:** Mantenir i millorar el software per enfrontar errors descoberts. S’ha de realitzar canvis.  
+  Tipus:
+      - Correctiu: es corregeixen defectes
+      - Perfectiu: es millora la funcionalitat
+      - Evolutiu: s’afegeixen noves funcionalitats
+      - Adaptatiu: s’adapta a nous entorns
