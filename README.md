@@ -45,3 +45,5 @@ El E/S està relacionat amb l’execució de software
   - Models evolutius o incrementals
     - Model en espiral (iteratius)
     - Metodologies àgils (adaptatius)
+
+![Captura de pantalla de 2020-11-09 19-03-45](https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png)
