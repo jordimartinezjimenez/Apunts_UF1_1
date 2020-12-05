@@ -70,7 +70,7 @@ Tipus:
 
 #### Model en espiral
 La activitat d'enginyeria correspon a les fases dels models clàssics: anàlisi, disseny, codificació,... 
-I es dóna gran importància a la reutilització de codi
+I es dóna gran importància a la reutilització de codi  
 <img src="https://user-images.githubusercontent.com/74070913/101242706-6b4f9180-36fb-11eb-90c7-237b41a9a706.png" alt="Model-cascada" width="500"/>
 
 ### Metodoloies àgils
