@@ -50,6 +50,7 @@ El E/S està relacionat amb l’execució de software
   -  Las fases es realitzan en el ordre indicat.
   -  El resultat d'una fase és la entrada de la següent.
   -  És un model bastant rígid que s'adapta malament a el canvi continu d'especificacions.
+<img src="https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png" alt="Model-cascada" width="200"/>
 ![Captura de pantalla de 2020-11-09 19-03-45](https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png)
 
 #### Model en V
@@ -65,13 +66,11 @@ Tipus:
   El prototip es rebutja.
   -  **Prototips evolutius**
   El prototip es fa servir com a base per desenvolupar el projecte.
-
 ![image](https://user-images.githubusercontent.com/74070913/101241871-43abf980-36fa-11eb-9d3a-6f4088cc030b.png)
 
 #### Model en espiral
 La activitat d'enginyeria correspon a les fases dels models clàssics: anàlisi, disseny, codificació,... 
 I es dóna gran importància a la reutilització de codi
-
 ![image](https://user-images.githubusercontent.com/74070913/101242706-6b4f9180-36fb-11eb-90c7-237b41a9a706.png)
 
 ### Metodoloies àgils
