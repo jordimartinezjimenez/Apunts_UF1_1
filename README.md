@@ -50,7 +50,7 @@ El E/S està relacionat amb l’execució de software
   -  Las fases es realitzan en el ordre indicat.
   -  El resultat d'una fase és la entrada de la següent.
   -  És un model bastant rígid que s'adapta malament a el canvi continu d'especificacions.
-<img src="https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png" alt="Model-cascada" width="1000"/>
+<img src="https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png" alt="Model-cascada" width="500"/>
 ![Captura de pantalla de 2020-11-09 19-03-45](https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png)
 
 #### Model en V
