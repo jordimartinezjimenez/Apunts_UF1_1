@@ -46,4 +46,80 @@ El E/S està relacionat amb l’execució de software
     - Model en espiral (iteratius)
     - Metodologies àgils (adaptatius)
 
+#### Model en cascada
+  -  Las fases es realitzan en el ordre indicat.
+  -  El resultat d'una fase és la entrada de la següent.
+  -  És un model bastant rígid que s'adapta malament a el canvi continu d'especificacions.
 ![Captura de pantalla de 2020-11-09 19-03-45](https://user-images.githubusercontent.com/74070913/98579016-5b8c8b00-22be-11eb-9680-ecb39dc989b6.png)
+
+#### Model en V
+  -  Semblant al model en cascada.
+  -  Visió jerarquitzada amb diferents nivells.
+  -  Els nivells superiors indiquen major abstracció i els inferiors major nivell de detall.
+  -  El resultat d'una fase és l'entrada de la següent fase.
+
+#### Prototips  
+Els requisits no estan especificats clarament durant la fase d'anàlisi. Llavors es crea un prototip i és provat per refinar els requisits de programari a desenvolupar.
+Tipus: 
+  -  **Prototips ràpids**
+  El prototip es rebutja.
+  -  **Prototips evolutius**
+  El prototip es fa servir com a base per desenvolupar el projecte.
+
+![image](https://user-images.githubusercontent.com/74070913/101241871-43abf980-36fa-11eb-9d3a-6f4088cc030b.png)
+
+#### Model en espiral
+La activitat d'enginyeria correspon a les fases dels models clàssics: anàlisi, disseny, codificació,... 
+I es dóna gran importància a la reutilització de codi
+
+![image](https://user-images.githubusercontent.com/74070913/101242706-6b4f9180-36fb-11eb-90c7-237b41a9a706.png)
+
+### Metodoloies àgils
+  -  Són mètodes d'enginyeria de programari basats en el desenvolupament iteratiu i incremental.
+  -  Els requisits i solucions evolucionen amb el temps segons la necessitat de el projecte.
+  -  Les metodologies més utilitzades són:  
+      - Kanban
+      - Scrum
+      - XP (eXtreme Programming)
+
+## Llenguatges de programació
+
+### Tipus
+Segons la forma en la que operan:
+  -  Llenguatge declaratiu: Indica el resultat sense especificar els passos, utilitza automàticament els mètodes adequats.  
+  Es centra en el “que”.
+  Ex: Prolog, SQL.
+  -  Llenguatge imperatiu: Descriu els passos a seguir per obtenir el resultat.  
+  Es centra en el “com”.
+  Ex: C, Java.
+
+Segons el nivell d'abstracció:
+  -  Baix nivell: assemblador
+  -  Medi nivell: C
+  -  Alt nivell: C ++, Java
+
+### Obtenció de codi executable
+  -  **Compilats:** Transforma el codi font d’un programa a un altre llenguatge de baix nivell.
+                    Execució molt eficient.
+                    Cal compilar cada vegada que el codi font és modificat.
+                    Ex: C, C++.
+  -  **Interpretats:** Executa directament les instruccions escrites.
+                    El codi font s'interpreta directament.
+                    Execució menys eficient.
+                    Ex: PHP, JavaScript.
+
+### Evolució
+  -  Codi binari
+  -  Assemblador
+  -  Llenguatges estructurats
+  -  Llenguatges orientats a objectes
+
+### Criteris per a la selecció d'un llenguatge
+  -  Camp d'aplicació
+  -  Experiència prèvia
+  -  Eines de desenvolupament
+  -  Documentació disponible
+  -  Base d'usuaris
+  -  Reusabilitat
+  -  Portabilitat
+  -  Imposició de el client
